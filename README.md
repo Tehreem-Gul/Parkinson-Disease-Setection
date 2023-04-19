@@ -1,1 +1,1 @@
-# Parkinson-Disease-Setection
+# Parkinson-Disease-detection
